@@ -2,7 +2,7 @@ int num = 100; //determines the size of the object
 float mx[] = new float[num];
 float my[] = new float[num];
 
-void setup() { //"allows you to set it up"
+void setup() { //Lets the computer know its working on the window
   size(640, 360); //changes the size of the window it pulls open
   noStroke(); //removes the lines a round the circles
   fill(255, 153); //changes the color of the object 
